@@ -1,0 +1,19 @@
+/* body {
+  display: none;
+} */
+.post-date {
+  background: #f4f4f4;
+  padding:4px;
+  margin: 3px 0;
+  display: block;
+}
+hr {
+  margin-top: 20px;
+}
+
+.spacing-right {
+  margin: 0 5px;
+}
+.post-thumb {
+  width: 150px;
+}
